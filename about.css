@@ -1,0 +1,16 @@
+*{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.para{
+  font-family: 'Roboto Mono', monospace;
+  line-height: 30px;
+  text-align: justify;
+}
+
+.heading{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
